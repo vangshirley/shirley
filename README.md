@@ -12,7 +12,7 @@
 <br>:no_entry_sign:If you ask me if I've seen the most recent show, or movie, I will most likely answer, "No."
 <br>:heart_eyes:But ask me about art, hiking, personal-development, and all things spiritual, and I'm all ears!!
 <br>
-<br>Connect with me: ![image](https://user-images.githubusercontent.com/96396500/167523694-0951bd78-fc6d-477d-bb7f-79ca973577c4.png)
+<br>Connect with me: <a href="https://dribbble.com/shirleyvan" target="_blank">![image](https://user-images.githubusercontent.com/96396500/167523694-0951bd78-fc6d-477d-bb7f-79ca973577c4.png)</a>
 <br>![image](https://user-images.githubusercontent.com/96396500/167523667-fdc43241-4591-4c70-9f25-c053a8df459a.png)
 <br>
 <br>Find me on <a href="https://dribbble.com/shirleyvan" target="_blank">Dribbble</a>
