@@ -1,5 +1,5 @@
 # About Me
-:wave:<h3>Hello, World!</h3>
+:wave::wave::wave::wave:<h3>Hello, World!</h3>
 
 <br>:point_right:UI/UX Designer here looking to collaborate with others to build my UI/UX portfolio.
 <br>:raising_hand:She/Her
