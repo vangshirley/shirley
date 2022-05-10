@@ -13,6 +13,6 @@
 <br>:heart_eyes:But ask me about art, hiking, personal-development, and all things spiritual, and I'm all ears!!
 <br>
 <br>Connect with me: <a href="https://www.linkedin.com/in/shirley-vang/" target="_blank">![image](https://user-images.githubusercontent.com/96396500/167523694-0951bd78-fc6d-477d-bb7f-79ca973577c4.png)</a>
-<br><a href="https://www.instagram.com/shirleyudesign/" target="_blank">![image](https://user-images.githubusercontent.com/96396500/167523667-fdc43241-4591-4c70-9f25-c053a8df459a.png)</a>
+<a href="https://www.instagram.com/shirleyudesign/" target="_blank">![image](https://user-images.githubusercontent.com/96396500/167523667-fdc43241-4591-4c70-9f25-c053a8df459a.png)</a>
 <br>
 <br>Find me on <a href="https://dribbble.com/shirleyvang" target="_blank">Dribbble</a>
