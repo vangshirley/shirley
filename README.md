@@ -11,3 +11,9 @@
 A little extra about me:
 :no_entry_sign:If you ask me if I've seen the most recent show, or movie, I will most likely answer, "No."
 :heart_eyes:But ask me about art, hiking, personal-development, and all things spiritual, and I'm all ears!!
+
+Connect with me: ![image](https://user-images.githubusercontent.com/96396500/167523694-0951bd78-fc6d-477d-bb7f-79ca973577c4.png)
+![image](https://user-images.githubusercontent.com/96396500/167523667-fdc43241-4591-4c70-9f25-c053a8df459a.png)
+
+Find me on https://dribbble.com/shirleyvang
+
